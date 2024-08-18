@@ -1,25 +1,25 @@
-# 🏠 Housing Price Crystal Ball 🔮
+# 🏠 Housing Price Prediction Project 🔍
 
-## Predicting Property Prices with Uncanny Accuracy!
+## Exploring the Complexities of Property Valuation
 
 ![House Price Prediction](https://miro.medium.com/v2/resize:fit:1400/0*cDRFtpTiOJFrfzS5.jpg)
 
-Ever wished you could see the future of real estate? Well, now you can! Welcome to the Housing Price Crystal Ball project, where we turn data into dollars and cents.
+Dive into the fascinating world of real estate pricing with our Housing Price Prediction project. We're on a journey to unravel the mysteries behind property values!
 
-### 🚀 What's This All About?
+### 🚀 Project Overview
 
-We've harnessed the power of machine learning to predict house prices with jaw-dropping accuracy. This isn't your grandma's property valuation - we're talking about a sophisticated model that considers factors you've never even thought of!
+This project tackles the challenging task of predicting house prices using machine learning. While we're still in the early stages, we've laid a solid foundation for future improvements and discoveries in real estate valuation.
 
 ### 🔍 Key Features:
 
-- 📊 Utilizes advanced data transformation techniques
-- 🧠 Employs Ridge Regression and Multiple Linear Regression models
-- 🎯 Achieves high accuracy without overfitting
+- 📊 Implements data transformation techniques
+- 🧠 Explores Ridge Regression and Multiple Linear Regression models
 - 🏘️ Considers multiple factors beyond just location and size
+- 🔬 Provides insights into the complexities of housing price prediction
 
 ### 💡 Why It Matters:
 
-Whether you're a buyer looking for a bargain, a seller aiming to maximize profits, or a real estate pro wanting to stay ahead of the curve, this project is your new secret weapon in the property market.
+Understanding the factors that influence house prices is crucial for buyers, sellers, and real estate professionals. This project offers a starting point for more accurate and data-driven property valuations.
 
 ### 🛠️ Tech Stack:
 
@@ -43,22 +43,27 @@ Want to see the magic explained? Watch our project presentation:
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter notebook: `jupyter notebook Housing_Price_Prediction.ipynb`
-4. Watch in awe as the future of real estate unfolds before your eyes!
 
 ### 📈 Results:
 
-Our model doesn't just predict - it astounds! Check out our accuracy metrics and visualizations in the notebook.
+Our model currently achieves around 60% accuracy. While this leaves room for improvement, it provides valuable insights into the challenges of predicting house prices and sets the stage for future enhancements.
+
+### 🔮 Future Work:
+
+- Explore advanced feature engineering techniques
+- Investigate other machine learning algorithms
+- Collect more diverse and comprehensive data
 
 ### 🤝 Contribute:
 
-Think you can make our crystal ball even clearer? We're all ears! Fork this repo and show us what you've got.
+We welcome contributions to improve the model's accuracy and explore new approaches. Every insight counts in this complex field!
 
 ### 📬 Get in Touch:
 
-Got questions? Want to collaborate? Reach out to me:
+Interested in real estate analytics or have ideas for improvement? Let's connect:
 
 - GitHub: https://github.com/Ryan-Rachmad-Hidayat
 - LinkedIn: https://linkedin.com/in/ryan-rachmad-hidayat-93497a1bb
 - Email: ryan.rachmad.works@gmail.com
 
-Remember, in the world of real estate, knowledge is power. And with this project, you're about to become very, very powerful! 💪🏠💰
+Join us in our quest to better understand the housing market. While we may not have a crystal ball yet, every step forward is progress in this fascinating field!
